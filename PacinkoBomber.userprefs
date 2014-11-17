@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LevelSphereColliders.cs">
+    <Files>
+      <File FileName="Assets\Script\LevelSphereColliders.cs" Line="43" Column="3" />
+      <File FileName="Assets\Script\BallState.cs" Line="51" Column="45" />
+      <File FileName="Assets\Script\LevelValues.cs" Line="42" Column="5" />
+      <File FileName="Assets\Script\LevelTargetStates.cs" Line="41" Column="3" />
+      <File FileName="Assets\Script\LevelGUI.cs" Line="34" Column="24" />
+      <File FileName="Assets\Script\GameValues.cs" Line="10" Column="19" />
+      <File FileName="Assets\Script\ShootZone.cs" Line="11" Column="19" />
+      <File FileName="Assets\Script\mainMenu.cs" Line="8" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="LevelSphereColliders.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>BttnRestartLoc</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
